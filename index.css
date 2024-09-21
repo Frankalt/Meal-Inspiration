@@ -1,0 +1,32 @@
+html {
+  background-color: orange;
+}
+
+.protest-guerrilla-regular {
+  font-family: "Protest Guerrilla", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  color: purple;
+  font-size: 4rem;
+  text-align: center;
+}
+
+button {
+  height: 60px;
+  width: 200px;
+  background-color: teal;
+  box-shadow: box-shadow: 60px -16px teal;
+  border-radius: 8px;
+  border-color: teal;
+  font-family: arial;
+    font-size: 1rem;
+  color: orange;
+  align: center;
+}
+
+#recipe-list {
+  font-family: arial;
+    font-size: 2rem;
+  font-style: bold;
+  color: purple;
+}
